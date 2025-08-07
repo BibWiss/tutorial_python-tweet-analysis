@@ -1,6 +1,6 @@
 # Analysing Tweets Using Python
 
-This repository contains material for a tutorial on analysing Trump tweets using the programming language Python. The tutorial will soon be available at [infowissblog.de/index.php/tutorial-tweets-analysieren-mit-python](https://www.infowissblog.de/index.php/tutorial-tweets-analysieren-mit-python). 
+This repository contains material for a tutorial on analysing Trump tweets using the programming language Python. The tutorial is available at [https://web.archive.org/web/20220128023845/https://infowissblog.de/index.php/tutorial-tweets-analysieren-mit-python/](https://web.archive.org/web/20220128023845/https://infowissblog.de/index.php/tutorial-tweets-analysieren-mit-python/). 
 
 ## Jupyter Notebook
 
